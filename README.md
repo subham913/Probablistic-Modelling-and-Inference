@@ -1,1 +1,2 @@
-# Probablistic-Modelling-and-Inference
+# Probablistic-Modelling-and-Inference(CS698X)
+This repository contains a variety of questions for people interested in probablistic modelling and inference techniques.It includes some cool problems on stuffs like,Gaussian Processes,Variational Inference,Monte-Carlo Sampling etc.This is part of my coursework(CS698) under Professor Piyush Rai.More problems will be added as the course progresses.Do ping me on my email if anyone has any doubts or if any mistakes are found.
